@@ -2,31 +2,21 @@
 permalink: /about/
 title: "About Me"
 excerpt: "About me."
-last_modified_at: 2018-11-21T14:49:33-05:00
-toc: true
+last_modified_at: 2019-1-29T14:49:33-05:00
+toc: false
 ---
 
-I write softwares.
+I'm a former IT guy with a passion for programming. I had been doing game development for years as a hobby, but recently I finally decided to get my CS degree and program for a living.
+Since everything is on the web nowadays, lately I've been interested in building web applications. I've worked with Tomcat and Django, and recently have started to learn ASP.net MVC.
 
+## Positions
 
-## Credits
+* Desktop Administrator, Commonwealth Honors College, (2013-2014)
+* OIT Tech Consultant, UMass Amherst, (2012-2013)
 
-### Icons + Demo Images:
+## Education
 
-- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
-- [Font Awesome](http://fontawesome.io/)
-- [Unsplash](https://unsplash.com/)
-
-### Other:
-
-- [Jekyll](https://jekyllrb.com/)
-- [jQuery](https://jquery.com/)
-- [Susy](http://susy.oddbird.net/)
-- [Breakpoint](http://breakpoint-sass.com/)
-- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
-- [FitVids.JS](http://fitvidsjs.com/)
-- Greedy Navigation - [lukejacksonn](https://codepen.io/lukejacksonn/pen/PwmwWV)
-- [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
-- [Lunr](http://lunrjs.com)
+* B.S. in Computer Science, UMass Boston, (2016-2018)
+* B.A. in Communications with Minor in Computer Science, UMass Amherst, (2011-2014)
 
 ---
