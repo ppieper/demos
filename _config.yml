@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirt" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Paul's Stuff"
+title                    : "Home"
 title_separator          : "-"
 name                     : "Paul Pieper"
 description              : "A place for hosting stuff. Thangs."

@@ -7,7 +7,8 @@ toc: false
 ---
 
 I'm a former IT guy with a passion for programming. I had been doing game development for years as a hobby, but recently I finally decided to get my CS degree and program for a living.
-Since everything is on the web nowadays, lately I've been interested in building web applications. I've worked with Tomcat and Django, and recently have started to learn ASP.net MVC.
+
+Since everything is moving towards the web these days, lately I've been interested in building web applications. I've worked with Tomcat and Django, and recently have started to learn ASP.net MVC.
 
 ## Positions
 
